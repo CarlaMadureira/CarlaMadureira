@@ -1,15 +1,13 @@
 <h1 align="center">Olá 👋, eu sou a Carla</h1>
+
 <h3 align="center">Estou quebrando paradgmas, para encontrar meu lugar no mundo se tornando uma QA de respeito!</h3>
 
 - 🔭 Atualmente estou **em transição de carreira**
-
 - 📫 Fale comigo em **carla.rm.brasil@gmail.com**
-
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/carla -madureira-944717131/](https://www.linkedin.com/in/carla-madureira-944717131/)
+- ⚡ Curiosidades sobre mim **já passei da fase 5.000 do Candy Crush**
 
-- ⚡ Curiosidades sobre mim **amo a natureza e minha galeria de imagens é repleta de fotos de árvores, flores de do céu**
-
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left" >Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carla-madureira-944717131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carla-madureira-944717131" height="30" width="40" /></a>
 <a href="https://instagram.com/carlarmplima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="carlarmplima" height="30" width="40" /></a>
